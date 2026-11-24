@@ -12,10 +12,10 @@
   <a href="https://samuel-ablorh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="www.linkedin.com/in/samuel-ablorh">
+  <a href="https://www.linkedin.com/in/samuel-ablorh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="www.linkedin.com/in/samuel-ablorh">
+  <a href="https://www.linkedin.com/in/samuel-ablorh/">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
